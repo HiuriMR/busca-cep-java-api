@@ -92,7 +92,7 @@ Faça push para a branch (git push origin minha-feature)
 
 Abra um Pull Request
 
-📜 Licença
+## 📜 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
