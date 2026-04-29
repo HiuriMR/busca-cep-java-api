@@ -24,12 +24,19 @@ Projeto em Java para consulta de endereços a partir de um CEP, utilizando a API
 ## 📂 Estrutura do projeto
 
 src/
+
 └── main/
+
 └── java/
+
 └── main/
+
 ├── app/      # Principal (entrada do programa)
+
 ├── client/   # ConsultaCep (requisições HTTP)
+
 ├── model/    # Endereco e CepResponse (record)
+
 └── util/     # GeradorDeArquivo (exporta JSON)
 
 
